@@ -2,7 +2,7 @@
 
 This is a practice project to make sure github is set up correctly.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/VaZ-zeBv-1E)
 
 # Development Environment
 
